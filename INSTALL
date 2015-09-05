@@ -1,0 +1,9 @@
+Building IAMcoin
+
+See doc/readme-qt.rst for instructions on building IAMcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of IAMcoin.
+
+See doc/build-*.txt for instructions on building IAMcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of IAMcoin.
